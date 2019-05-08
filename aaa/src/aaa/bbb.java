@@ -3,7 +3,7 @@ package aaa;
 public class bbb {
 	public static void main(String[] args) {
 
-		System.out.println("cc0111111111111521579801c");
+		System.out.println("2226666");
 		
 
 	}
