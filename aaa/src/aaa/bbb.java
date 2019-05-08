@@ -6,8 +6,8 @@ public class bbb {
 		System.out.println("cc0111111111111521579801c");
 		System.out.println("cc01111121579801c");
 
-		
-
+		System.out.println("cc010000000000001c");
+                System.out.println("cc010000000000001c");
 		System.out.println("cc010000000000001c");
 
 	}
